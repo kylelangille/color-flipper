@@ -6,8 +6,8 @@ No tutorials used.
 
 The repo includes:
 
-- An HTML file
+- HTML file
 
-- A CSS file
+- CSS file
 
-- A JavaScript file (featuring a massive colors array!)
+- JavaScript file (featuring a massive colors array!)
