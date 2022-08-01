@@ -9,3 +9,5 @@ The repo includes:
 - CSS file
 
 - JavaScript file (featuring a massive colors array!)
+
+Live demo [here!](https://kylelangille.github.io/color-flipper/)
