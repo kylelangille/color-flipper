@@ -9,5 +9,3 @@ The repo includes:
 - CSS file
 
 - JavaScript file (featuring a massive colors array!)
-
-Live demo [here!](https://kyleisconfused.github.io/color-flipper/)
